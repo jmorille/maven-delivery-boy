@@ -5,6 +5,7 @@ yarn.lock
 
 # project
 /dest
+/in
 *.log
 *.jar
 *.tar.gz
