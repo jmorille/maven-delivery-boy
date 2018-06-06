@@ -2,3 +2,9 @@
 node_modules
 package-lock.json
 yarn.lock
+
+# project
+/dest
+*.log
+*.jar
+*.tar.gz
